@@ -1,7 +1,5 @@
 # POSH-AD
-#	Author: Abrom Douglas III
-# Email: scripts[@]gh0stface.com
-#
+
 A repo of multiple PowerShell Scripts that can be used against Active Directory.
 
 This GitHub repository is filled with individual PowerShell scripts that can be run against Active Directory for various tasks. There was a time that Quest Active Directory CMDlets (QAD) made working with Active Directory extremely streamlined and fast. These CMDlets are no longer under a GNU license and you must purchase this. 
