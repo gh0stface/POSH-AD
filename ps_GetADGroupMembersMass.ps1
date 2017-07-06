@@ -1,6 +1,7 @@
 #===========================================================================================================================
 #	Name: ps_GetADGroupMembersMass.ps1
 #	Author: Abrom Douglas III
+#	Email: scripts[@]gh0stface.com
 #	Date: 07/05/2017
 #	Description: 	This imports a list of AD security groups and runs a foreach to gather the group members.
 #					The input file must be named "securitygroups.csv" and located in the same directory as this script
