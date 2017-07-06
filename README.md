@@ -1,8 +1,7 @@
 # POSH-AD
 #===========================================================================================================================
 #	Author: Abrom Douglas III
-# Email: scripts@abromdouglas.com
-#	Date: 07/05/2017
+# Email: scripts[@]gh0stface.com
 #===========================================================================================================================
 A repo of multiple PowerShell Scripts that can be used against Active Directory.
 
