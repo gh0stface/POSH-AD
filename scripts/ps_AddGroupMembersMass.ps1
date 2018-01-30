@@ -1,8 +1,8 @@
 #===================================================================================================================
-# Name: ps_CompareFolders.ps1
-# Author: Abrom Douglas III
+#   Name: ps_CompareFolders.ps1
+#   Author: Abrom Douglas III
 #	Email: scripts[@]gh0stface.com
-#	Date: 01/24/2018
+#	Date: 12/28/2016
 #===================================================================================================================
 import-module ActiveDirectory
 #	Obtain the file location where accounts are listed out
